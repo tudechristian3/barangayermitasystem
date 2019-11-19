@@ -30,4 +30,17 @@
 
     <!-- AdminBSB Themes. You can choose a theme from css/themes instead of get all themes -->
     <link href={{ asset("asset/css/themes/all-themes.css") }} rel="stylesheet" />
+
+    <link href={{ asset("asset/plugins/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css") }} rel="stylesheet" />
+
+    <!-- Bootstrap DatePicker Css -->
+    <link href={{ asset("asset/plugins/bootstrap-datepicker/css/bootstrap-datepicker.css") }} rel="stylesheet" />
+
+    <link href={{  asset("asset/plugins/waitme/waitMe.css") }} rel="stylesheet" />
+
+    <!-- Bootstrap Select Css -->
+    <link href={{ asset("asset/plugins/bootstrap-select/css/bootstrap-select.css") }} rel="stylesheet" />
+
+    <!-- Custom Css -->
+    <link href={{ asset("asset/css/style.css")  }} rel="stylesheet">
 </head>

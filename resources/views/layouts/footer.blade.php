@@ -39,3 +39,9 @@
 
 <!-- Demo Js -->
 <script src={{ asset("asset/js/demo.js") }}></script>
+
+<script src={{ asset("asset/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js") }}></script>
+<!-- Bootstrap Datepicker Plugin Js -->
+<script src={{ asset("asset/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js") }}></script>
+
+<script src={{ asset("asset/plugins/momentjs/moment.js") }}></script>

@@ -79,9 +79,9 @@
                             </a>
                         </li>
                         <li>
-                            <a href="pages/typography.html">
+                            <a href="{{ url('residence') }}">
                                 <i class="material-icons">text_fields</i>
-                                <span>Typography</span>
+                                <span>Residence</span>
                             </a>
                         </li>
                         <li>
